@@ -1,6 +1,7 @@
 import numpy as np
 '''
-Code to print expected lag spectrum from equation 8 of Kammoun+2021 ApH 907, Issue 1, id.20 ( https://ui.adsabs.harvard.edu/abs/2021ApJ...907...20K/abstract )
+Code to print expected lag spectrum from equation 8 of Kammoun+2021 ApH 907, Issue 1, id.20 
+( https://ui.adsabs.harvard.edu/abs/2021ApJ...907...20K/abstract )
  
 
 Parameters defined in the code are for Mrk 110
